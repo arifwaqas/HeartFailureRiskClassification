@@ -1,0 +1,6 @@
+POST http://192.168.43.102/compute
+Content-Type: application/json
+
+{
+    "age": "30"
+}
