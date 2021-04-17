@@ -77,7 +77,7 @@ export default function App() {
         keyboardType='number-pad'
       />
       <TextInput
-        label="Serum"
+        label="Anaemia"
         onChangeText={text => handleChange(text, 'ser')}
         style={styles.input}
         keyboardType='number-pad'
